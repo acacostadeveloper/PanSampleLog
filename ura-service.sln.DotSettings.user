@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Microsoft.CSharp.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:Int64 x:Key="/Default/Environment/SearchAndNavigation/DefaultOccurrencesGroupingIndex/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=E211CC87A02049828E3EEDD35B6F3F03/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=E211CC87A02049828E3EEDD35B6F3F03/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=E211CC87A02049828E3EEDD35B6F3F03/Name/@EntryValue">TestGerarPDFBinarioAcordoFuncao</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=E211CC87A02049828E3EEDD35B6F3F03/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="Pan.Credito.Tests.BoletoServiceUnitTest.TestGerarPDFBinarioAcordoFuncao" Project="98D61F8B-90B5-400A-B723-D1C0D552AF13" Provider="MSTest" /&gt;&lt;e Id="Pan.Credito.Tests.BoletoServiceUnitTest" Project="98D61F8B-90B5-400A-B723-D1C0D552AF13" Provider="MSTest" /&gt;&lt;/Session&gt;</s:String></wpf:ResourceDictionary>

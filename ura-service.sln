@@ -1,0 +1,102 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pan.Credito.WebApi", "src\Pan.Credito.WebApi\Pan.Credito.WebApi.csproj", "{1AE80B99-546D-48A5-85DC-19FFC82652BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "[0]Presentation", "[0]Presentation", "{8D921ED8-5770-4AB2-A669-A23326980A61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "[1]Application", "[1]Application", "{CA74EDDE-3A20-4379-B388-513F91868E44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "[4]CrossCutting", "[4]CrossCutting", "{2DC3AFDF-65AD-4AD0-A43A-FDC285D29086}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "[3]Infra", "[3]Infra", "{DBC0D9F6-0922-473A-B527-E18AA7020E01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "[2]Domain", "[2]Domain", "{3AD23929-CF6B-4F88-B158-8FAFAF91EED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pan.Credito.Application", "src\Pan.Credito.Application\Pan.Credito.Application.csproj", "{6485AA13-B5F9-4F47-8EE1-F5473064F0B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pan.Credito.Domain", "src\Pan.Credito.Domain\Pan.Credito.Domain.csproj", "{5EAF9A60-180F-4145-8178-916E038E56E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pan.Credito.InfraEstructure", "src\Pan.Credito.InfraEstructure\Pan.Credito.InfraEstructure.csproj", "{9A4A6346-8874-47BE-87E2-38871CA98138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pan.Credito.CrossCutting", "src\Pan.Credito.CrossCutting\Pan.Credito.CrossCutting.csproj", "{752598F9-A549-4E95-8729-D23AB18F6444}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://panvasp3045:8080/tfs/plataforma%20digital
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = src\\Pan.Credito.Domain\\Pan.Credito.Domain.csproj
+		SccProjectTopLevelParentUniqueName1 = ura-service.sln
+		SccProjectName1 = src/Pan.Credito.Domain
+		SccLocalPath1 = src\\Pan.Credito.Domain
+		SccProjectUniqueName2 = src\\Pan.Credito.WebApi\\Pan.Credito.WebApi.csproj
+		SccProjectTopLevelParentUniqueName2 = ura-service.sln
+		SccProjectName2 = src/Pan.Credito.WebApi
+		SccLocalPath2 = src\\Pan.Credito.WebApi
+		SccProjectUniqueName3 = src\\Pan.Credito.Application\\Pan.Credito.Application.csproj
+		SccProjectTopLevelParentUniqueName3 = ura-service.sln
+		SccProjectName3 = src/Pan.Credito.Application
+		SccLocalPath3 = src\\Pan.Credito.Application
+		SccProjectUniqueName4 = src\\Pan.Credito.InfraEstructure\\Pan.Credito.InfraEstructure.csproj
+		SccProjectTopLevelParentUniqueName4 = ura-service.sln
+		SccProjectName4 = src/Pan.Credito.InfraEstructure
+		SccLocalPath4 = src\\Pan.Credito.InfraEstructure
+		SccProjectUniqueName5 = src\\Pan.Credito.CrossCutting\\Pan.Credito.CrossCutting.csproj
+		SccProjectTopLevelParentUniqueName5 = ura-service.sln
+		SccProjectName5 = src/Pan.Credito.CrossCutting
+		SccLocalPath5 = src\\Pan.Credito.CrossCutting
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE80B99-546D-48A5-85DC-19FFC82652BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE80B99-546D-48A5-85DC-19FFC82652BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE80B99-546D-48A5-85DC-19FFC82652BA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1AE80B99-546D-48A5-85DC-19FFC82652BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE80B99-546D-48A5-85DC-19FFC82652BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE80B99-546D-48A5-85DC-19FFC82652BA}.Release|x86.ActiveCfg = Release|Any CPU
+		{6485AA13-B5F9-4F47-8EE1-F5473064F0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6485AA13-B5F9-4F47-8EE1-F5473064F0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6485AA13-B5F9-4F47-8EE1-F5473064F0B1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6485AA13-B5F9-4F47-8EE1-F5473064F0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6485AA13-B5F9-4F47-8EE1-F5473064F0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6485AA13-B5F9-4F47-8EE1-F5473064F0B1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6485AA13-B5F9-4F47-8EE1-F5473064F0B1}.Release|x86.ActiveCfg = Release|Any CPU
+		{5EAF9A60-180F-4145-8178-916E038E56E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAF9A60-180F-4145-8178-916E038E56E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAF9A60-180F-4145-8178-916E038E56E8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5EAF9A60-180F-4145-8178-916E038E56E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAF9A60-180F-4145-8178-916E038E56E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EAF9A60-180F-4145-8178-916E038E56E8}.Release|x86.ActiveCfg = Release|Any CPU
+		{9A4A6346-8874-47BE-87E2-38871CA98138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4A6346-8874-47BE-87E2-38871CA98138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4A6346-8874-47BE-87E2-38871CA98138}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9A4A6346-8874-47BE-87E2-38871CA98138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4A6346-8874-47BE-87E2-38871CA98138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A4A6346-8874-47BE-87E2-38871CA98138}.Release|x86.ActiveCfg = Release|Any CPU
+		{752598F9-A549-4E95-8729-D23AB18F6444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752598F9-A549-4E95-8729-D23AB18F6444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752598F9-A549-4E95-8729-D23AB18F6444}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{752598F9-A549-4E95-8729-D23AB18F6444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752598F9-A549-4E95-8729-D23AB18F6444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752598F9-A549-4E95-8729-D23AB18F6444}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1AE80B99-546D-48A5-85DC-19FFC82652BA} = {8D921ED8-5770-4AB2-A669-A23326980A61}
+		{6485AA13-B5F9-4F47-8EE1-F5473064F0B1} = {CA74EDDE-3A20-4379-B388-513F91868E44}
+		{5EAF9A60-180F-4145-8178-916E038E56E8} = {3AD23929-CF6B-4F88-B158-8FAFAF91EED0}
+		{9A4A6346-8874-47BE-87E2-38871CA98138} = {DBC0D9F6-0922-473A-B527-E18AA7020E01}
+		{752598F9-A549-4E95-8729-D23AB18F6444} = {2DC3AFDF-65AD-4AD0-A43A-FDC285D29086}
+	EndGlobalSection
+EndGlobal
