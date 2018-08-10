@@ -1,0 +1,26 @@
+[
+	{
+	    "usuario": {
+	        "codigoUsuario": "app_usr_reembolso"
+	    },
+	    "departamento": {
+	        "codigoDepartamento": "0000020"
+	    },
+	    "contrato": 
+	        {
+	            "produto": {
+	                "codigoProduto": "0001"
+	            },
+	            "cliente": {
+	                "numeroCpfCnpj": "25266429810",
+	                "tipoPessoa": "F"
+	            },
+	            "coligada": {
+	                "codigoColigada": "001"
+	            },
+	            "numeroContrato": "712155707-3"
+	        },
+	    "dataSolicitacao": "2018-07-03T15:30:00",
+	    "valorReembolso": 145.33
+	}
+]

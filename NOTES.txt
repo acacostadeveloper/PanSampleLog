@@ -1,0 +1,154 @@
+
+
+TODO - LIST 
+ 1 - Acertar Scripts 
+	OK - Tabela CONTRATO 
+	
+	OK - CAMPOS 
+	OK -	CD_STATUS_CONTRATO [varchar](20) NULL,
+	OK -	CD_REGISTRO_OBITO VARCHAR(30) NULL,	
+	OK -	DT_STATUS DATETIME NULL,	
+
+	Alterar a 
+
+	- Tabela de dominio STATUS (VERIFICAR)
+
+ 2 - Construir HandlerAuth
+	Gerar Token
+	Autenticar via AD (API Reembolso)
+		Implementar codigos HTTP 401, HTTP 403
+	
+	Mapear Perfils e Usuarios para a aplicacao
+	
+ 3 - Mapear processo de Inclusao em Lote
+	
+	Mapear tabela de Integracao para arquivos .CSV.
+	
+	Upload File 
+		Dispara processo de Inclusao (BulkInsert)
+		Insere tabela de integracao
+		Gera Identificador LOTE
+		
+		
+	A partir da table de Integracao (por LOTE)
+		Iniciar a carga de Reembolsos.
+
+		
+--------------------------------------------------------------------------------		
+09/08
+
+1 - Criar Tabelas de Dominio 
+		OK SIGLA
+		OK ProcessoRegistro
+		
+		Incluir nos SCRIPTS 
+			OK - SIGLA 
+			OK - PROCESSO_REGISTRO
+			
+		Gerar Script para popular as 2 tabelas.
+			OK - SIGLA 
+			OK - PROCESSO_REGISTRO
+		
+	OK - Mapear entidades E.F.
+		Entitdades 
+			OK SIGLA 
+			OK ProcessoRegistro
+		EndidadesDataBase
+			OK SIGLA
+			OK ProcessoRegistro
+		
+		Mappers
+			OK SIGLA
+			OK ProcessoRegistro
+			
+		Incluir Referencia Tabela Reembolso	
+			OK SIGLA
+			OK ProcessoRegistro * Verificar onde referenciar.
+				Sigla -> Reembolso 1..1
+				ProcessoRegistro
+				
+	OK - Adicionar campos processo de Entrada Reembolso para incluir tbm os dominios.
+	OK - Alterar do OK - Controller / OK - Service / OK - Repository.
+		
+		
+------------------------------------------------------		
+2 - OK Gerar Massa CSV com base nos scripts Afonso.
+	OK - Conectar no Banco HML FUNCAO
+------------------------------------------------------	
+3 - Retornar ao processo de Integracao
+
+	OK - Criar Rota Controller reembolso/bulk
+		OK - Enviar arquivo binario como Parametro (CSV)
+		OK - Criar config pasta Destino - Server 
+		
+	Efetuar BulkCopy para a tabela Integracao.
+		Transfomar o Arquivo CSV para DataReader/DataTable
+		Mapear os Campos para a tabela REEMBOSO_INTEGRACAO
+	
+	Criar Tabela REEMBOLSO_INTEGRACAO
+	Incluir no arquivo de Script 
+	
+	Excluir Arquivo pasta SERVER apos BULK.
+------------------------------------------------------	
+4 - Alterar Processo de Inclusao Reembolso
+	Fazer Leitura da Tabela de Integracao (status PENDENTE)
+		Verificar se o mesmo ja foi Integrado 
+			* Regra da CHAVE -> SIGLA -> CTNI (Contrato nao Integrado)
+			
+		Se ja Existir o Reembolso 
+			Alterar o status. Integracao
+			Denotar Motivo Nao Integracao 
+		
+		Nao existindo 
+			Incluir Lista Inclusao
+		
+		Submeter Lista Inclusao processo Inclusao
+		
+		Com o retorno do Processo	
+			Varrer Tabela Integracao 
+			sucesso : 
+				Atualizar Status
+				Data Integracao
+				
+			Critica / Erro
+				Atualizar Status
+				Motivo Integracao
+			
+
+------------------------------------------------------
+		
+		
+Consulta de Contrato
+1 - Consultar status do Contrato
+	Se o contrato esta em Aberto 
+		FIM 
+			****Nao intergra o Reembolsso ? 
+			****Marca msg de Critica ? 
+	
+	Liquidado/estornada
+		Data status - Buscar data Liquidacao/Estorno : (pegar Query Afonso)
+		Buscar Histoco Financeiro ref. a Liquidacao/Estorno (pegar Query Afonso)
+		
+		
+	
+
+	**** Mudar Coluno HistoricoRinanceiro para historico financeiro Liquidacao/Estorno
+		
+	***** Qdo sigla NCTI
+		Nao buscar dados Contrato no Agente
+		Gerar um contrato com status Nao Integrado
+		nrContrato = cpfCnpj
+
+		
+---------------------------------------------------------------------------------		
+		
+		
+CryptographyHelper.EncryptString("800039747", CryptographyHelper.KeyType.PublicKey)		
+Access : 800039747
+
+clienId 		: "AQ7gpQTkWj8JedBGoBAvrg=="
+clientSecret 	: "64VrcTGGmIh4wI2+W1LoUA=="
+
+token : "orgW3fv2eWkkRnzw9HyASu37dTakPQzpNiqXXlOBZs7o8I8YLOeI9z7fNp3rMhxXT3l+e/VDEMNUhBVwJ78wLhHfeVek8+tl3oM5LhtpvG8Rq1IifGtrCQX0TH9WeoVuTO3d3OCa6TRMOWquAzt/zeahMJfb0Gct7PNrnvbvs3aArDAp8958l5IqquqeUkdPEs2O75ruVD+IiUoLvk2UCyixXaZ1sdRPk42Le5nUTP4FZuKpzWcq6mNud+desQrpmKxS0RaqJnRY/XynUxoE3/3GoSYgV6e1mPg0cBZOSNA3oRKzi8FWn0AVgvIdy/xt"
+
+
