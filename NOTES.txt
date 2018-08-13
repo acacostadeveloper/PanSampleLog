@@ -14,12 +14,23 @@ TODO - LIST
 	- Tabela de dominio STATUS (VERIFICAR)
 
  2 - Construir HandlerAuth
-	Gerar Token
-	Autenticar via AD (API Reembolso)
-		Implementar codigos HTTP 401, HTTP 403
+	OK Gerar Token
+	OK Autenticar via AD (API Reembolso)
+		Implementar codigos 
+		OK - HTTP 401, 
+		HTTP 403
 	
 	Mapear Perfils e Usuarios para a aplicacao
+		Analista Baixa
+		Aprovador
+		Operador Central
+		Sistema Produto
+		Sistema Tesouraria
+		CAWA
+		Cliente
+		Grafica
 	
+
  3 - Mapear processo de Inclusao em Lote
 	
 	Mapear tabela de Integracao para arquivos .CSV.
