@@ -13,13 +13,23 @@
 	            },
 	            "cliente": {
 	                "numeroCpfCnpj": "25266429810",
-	                "tipoPessoa": "F"
+	                "tipoPessoa": "F",
+					"nomeCliente": "ADELAIDE MARIA PACHECO"
 	            },
 	            "coligada": {
 	                "codigoColigada": "001"
 	            },
 	            "numeroContrato": "712155707-3"
 	        },
+		"sigla": {
+			"codigoSigla": "CTNI"
+			},
+			
+		"processoRegistro": {
+				"codigoProcessoRegistro" : 6
+			},
+		"mesCompetencia": 06,
+		"anoCompetencia": 2018,
 	    "dataSolicitacao": "2018-07-03T15:30:00",
 	    "valorReembolso": 145.33
 	}

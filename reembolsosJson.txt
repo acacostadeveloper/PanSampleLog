@@ -1,0 +1,3002 @@
+[
+    {
+        "idReembolso": 6,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0306",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "19350",
+                    "digitoConta": "X",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA PIAUI",
+                    "numero": "1981",
+                    "complemento": "AP102",
+                    "cep": "30150321",
+                    "bairro": "FUNCIONARIOS",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "98238-6788",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "3225-2901",
+                "nomeCliente": "ADELAIDE MARIA PACHECO",
+                "numeroCpfCnpj": "32691203620",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "712155707-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "CANC CONTR REFIN",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 212
+            }
+        },
+        "dataSolicitacao": "2018-05-21T15:30:00",
+        "numeroReembolso": 6,
+        "valorReembolso": 125.33,
+        "statusReembolso": "registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "CTNI",
+            "nomeSigla": "Contrato não integrado"
+        },
+        "processoRegistro": null,
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 7,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0306",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "19350",
+                    "digitoConta": "X",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA PIAUI",
+                    "numero": "1981",
+                    "complemento": "AP102",
+                    "cep": "30150321",
+                    "bairro": "FUNCIONARIOS",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "98238-6788",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "3225-2901",
+                "nomeCliente": "ADELAIDE MARIA PACHECO",
+                "numeroCpfCnpj": "32691203620",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "712155707-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "CANC CONTR REFIN",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 212
+            }
+        },
+        "dataSolicitacao": "2018-07-03T15:30:00",
+        "numeroReembolso": 7,
+        "valorReembolso": 145.33,
+        "statusReembolso": "registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "CTNI",
+            "nomeSigla": "Contrato não integrado"
+        },
+        "processoRegistro": null,
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 8,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0306",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "19350",
+                    "digitoConta": "X",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA PIAUI",
+                    "numero": "1981",
+                    "complemento": "AP102",
+                    "cep": "30150321",
+                    "bairro": "FUNCIONARIOS",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "98238-6788",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "3225-2901",
+                "nomeCliente": "ADELAIDE MARIA PACHECO",
+                "numeroCpfCnpj": "32691203620",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "712155707-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "CANC CONTR REFIN",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 212
+            }
+        },
+        "dataSolicitacao": "2018-07-03T15:30:00",
+        "numeroReembolso": 8,
+        "valorReembolso": 145.33,
+        "statusReembolso": "registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "CTNI",
+            "nomeSigla": "Contrato não integrado"
+        },
+        "processoRegistro": null,
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 10,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0033",
+                    "digitoAgencia": "7 ",
+                    "numeroConta": "44105",
+                    "digitoConta": "8",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "Rua Carlos Alberto",
+                    "numero": "570",
+                    "complemento": "CS",
+                    "cep": "31530560",
+                    "bairro": "RIO BRANCO",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "99238-2705",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "99238-2705",
+                "nomeCliente": "ARIANY CRISTINA GONCALVES",
+                "numeroCpfCnpj": "00000145670",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "716516408-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "RECBTO DESC EM FOLHA",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 204
+            }
+        },
+        "dataSolicitacao": "2018-08-14T15:19:42.397",
+        "numeroReembolso": 10,
+        "valorReembolso": 17400,
+        "statusReembolso": "registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 11,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0033",
+                    "digitoAgencia": "7 ",
+                    "numeroConta": "44105",
+                    "digitoConta": "8",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "Rua Carlos Alberto",
+                    "numero": "570",
+                    "complemento": "CS",
+                    "cep": "31530560",
+                    "bairro": "RIO BRANCO",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "99238-2705",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "99238-2705",
+                "nomeCliente": "ARIANY CRISTINA GONCALVES",
+                "numeroCpfCnpj": "00000145670",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "716516408-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "RECBTO DESC EM FOLHA",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 204
+            }
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.433",
+        "numeroReembolso": 11,
+        "valorReembolso": 17400,
+        "statusReembolso": "registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 12,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "104",
+                    "numeroAgencia": "0084",
+                    "digitoAgencia": "0 ",
+                    "numeroConta": "062869",
+                    "digitoConta": "7",
+                    "tipoConta": "PP",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA CRISTALIA",
+                    "numero": "125",
+                    "complemento": "",
+                    "cep": "32684094",
+                    "bairro": "SANTO ANTONIO",
+                    "cidade": "BETIM",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "99788-0258",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "3591-6357",
+                "nomeCliente": "GUTEMBERG DOS SANTOS TEIXEIRA",
+                "numeroCpfCnpj": "00000395609",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "316411207-4",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "RECBTO DESC EM FOLHA",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 204
+            }
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.437",
+        "numeroReembolso": 12,
+        "valorReembolso": 79400,
+        "statusReembolso": "registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 13,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "033",
+                    "numeroAgencia": "3213",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "01079055",
+                    "digitoConta": "6",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "Estrada Francisco da Cruz Nunes",
+                    "numero": "1198",
+                    "complemento": "403",
+                    "cep": "24350310",
+                    "bairro": "Piratininga",
+                    "cidade": "Niteroi",
+                    "estado": "RJ"
+                },
+                "numeroDDDCelular": "   ",
+                "numeroCelular": "",
+                "numeroDDDFixo": "21 ",
+                "numeroFixo": "6746-6039",
+                "nomeCliente": "DEILSON DE OLIVEIRA TEIXEIRA",
+                "numeroCpfCnpj": "00001785788",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "716325516-4",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "RECBTO DESC EM FOLHA",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 204
+            }
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.44",
+        "numeroReembolso": 13,
+        "valorReembolso": 84400,
+        "statusReembolso": "registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 14,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "104",
+                    "numeroAgencia": "1256",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "00033319",
+                    "digitoConta": "8",
+                    "tipoConta": "PP",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "LINHA ENGENHEIRO PINTO",
+                    "numero": "SN",
+                    "complemento": "CASA",
+                    "cep": "85760000",
+                    "bairro": "RURAL",
+                    "cidade": "CAPANEMA",
+                    "estado": "PR"
+                },
+                "numeroDDDCelular": "   ",
+                "numeroCelular": "",
+                "numeroDDDFixo": "46 ",
+                "numeroFixo": "9974-1444",
+                "nomeCliente": "NELSI MORGENSTERN",
+                "numeroCpfCnpj": "00002244993",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "316600716-5",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": null
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.443",
+        "numeroReembolso": 14,
+        "valorReembolso": 25200,
+        "statusReembolso": "registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 15,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "1882",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "36883",
+                    "digitoConta": "0",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "AV JARI",
+                    "numero": "12",
+                    "complemento": "",
+                    "cep": "66095260",
+                    "bairro": "MARCO",
+                    "cidade": "BELEM",
+                    "estado": "PA"
+                },
+                "numeroDDDCelular": "   ",
+                "numeroCelular": "",
+                "numeroDDDFixo": "91 ",
+                "numeroFixo": "3266-0040",
+                "nomeCliente": "JOSE MOZART DE C NERY",
+                "numeroCpfCnpj": "00002461234",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "316232110-7",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": null
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.447",
+        "numeroReembolso": 15,
+        "valorReembolso": 34800,
+        "statusReembolso": "registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 16,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "104",
+                    "numeroAgencia": "0613",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "00046945",
+                    "digitoConta": "3",
+                    "tipoConta": "PP",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA CEL JOSE DE PINHO",
+                    "numero": "174",
+                    "complemento": "",
+                    "cep": "63500000",
+                    "bairro": "CENTRO",
+                    "cidade": "IGUATU",
+                    "estado": "CE"
+                },
+                "numeroDDDCelular": "88 ",
+                "numeroCelular": "98807-0207",
+                "numeroDDDFixo": "88 ",
+                "numeroFixo": "8807-0207",
+                "nomeCliente": "MARIA ENILCE SILVA VIEIRA",
+                "numeroCpfCnpj": "00002523361",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "317578215-4",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": null
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.45",
+        "numeroReembolso": 16,
+        "valorReembolso": 79500,
+        "statusReembolso": "registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 17,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "070",
+                    "numeroAgencia": "0124",
+                    "digitoAgencia": "4 ",
+                    "numeroConta": "4491",
+                    "digitoConta": "4",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "QD A",
+                    "numero": "03",
+                    "complemento": "CASA",
+                    "cep": "72420410",
+                    "bairro": "TAGUATINGA",
+                    "cidade": "BRASILIA",
+                    "estado": "DF"
+                },
+                "numeroDDDCelular": "61 ",
+                "numeroCelular": "9154-8749",
+                "numeroDDDFixo": "61 ",
+                "numeroFixo": "9154-8749",
+                "nomeCliente": "EDUARDO BARROSO SILVA",
+                "numeroCpfCnpj": "00002699133",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "717327706-7",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": null
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.45",
+        "numeroReembolso": 17,
+        "valorReembolso": 27300,
+        "statusReembolso": "cancelado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": false
+    },
+    {
+        "idReembolso": 18,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "104",
+                    "numeroAgencia": "0634",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "23243",
+                    "digitoConta": "1",
+                    "tipoConta": "PP",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA JOSE FERNANADO MOTA",
+                    "numero": "14",
+                    "complemento": "",
+                    "cep": "44700000",
+                    "bairro": "MULTIRO",
+                    "cidade": "JACOBINA",
+                    "estado": "BA"
+                },
+                "numeroDDDCelular": "   ",
+                "numeroCelular": "",
+                "numeroDDDFixo": "74 ",
+                "numeroFixo": "99119-8798",
+                "nomeCliente": "CARLITO SILVA DOS ANJOS",
+                "numeroCpfCnpj": "00005567505",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "316501510-2",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": null
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.453",
+        "numeroReembolso": 18,
+        "valorReembolso": 36200,
+        "statusReembolso": "cancelado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": false
+    },
+    {
+        "idReembolso": 19,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "4459",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "11654",
+                    "digitoConta": "8",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "PRACA PONCE DE LEON",
+                    "numero": "112",
+                    "complemento": "",
+                    "cep": "27330490",
+                    "bairro": "CENTRO",
+                    "cidade": "BARRA MANSA",
+                    "estado": "RJ"
+                },
+                "numeroDDDCelular": "   ",
+                "numeroCelular": "",
+                "numeroDDDFixo": "21 ",
+                "numeroFixo": "99146-7436",
+                "nomeCliente": "ANA PAULA TODARO LEITE",
+                "numeroCpfCnpj": "00006247725",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "717375004-8",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": null
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.457",
+        "numeroReembolso": 19,
+        "valorReembolso": 48600,
+        "statusReembolso": "Cancelado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": false
+    },
+    {
+        "idReembolso": 20,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "104",
+                    "numeroAgencia": "0795",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "025069",
+                    "digitoConta": "6",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "R UBERLANDIA",
+                    "numero": "0",
+                    "complemento": "SENHA",
+                    "cep": "74915017",
+                    "bairro": "SETOR DOS AFONSOS",
+                    "cidade": "APARECIDA DE GOIANIA",
+                    "estado": "GO"
+                },
+                "numeroDDDCelular": "   ",
+                "numeroCelular": "",
+                "numeroDDDFixo": "62 ",
+                "numeroFixo": "8581-0271",
+                "nomeCliente": "WAGNER PAULO DA COSTA SILVA",
+                "numeroCpfCnpj": "00006267165",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "717482305-9",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": null
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.457",
+        "numeroReembolso": 20,
+        "valorReembolso": 19200,
+        "statusReembolso": "Rejeitado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": false
+    },
+    {
+        "idReembolso": 21,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "033",
+                    "numeroAgencia": "3213",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "01003409",
+                    "digitoConta": "0",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "AV BAHIA",
+                    "numero": "294",
+                    "complemento": "CASA",
+                    "cep": "24342020",
+                    "bairro": "ITAIPU",
+                    "cidade": "NITEROI",
+                    "estado": "RJ"
+                },
+                "numeroDDDCelular": "   ",
+                "numeroCelular": "",
+                "numeroDDDFixo": "21 ",
+                "numeroFixo": "96644-7093",
+                "nomeCliente": "MARCIO BONIN RIBEIRO",
+                "numeroCpfCnpj": "00006384714",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "716800413-8",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": null
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.46",
+        "numeroReembolso": 21,
+        "valorReembolso": 22900,
+        "statusReembolso": "Rejeitado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": false
+    },
+    {
+        "idReembolso": 22,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "104",
+                    "numeroAgencia": "0085",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "00000901249",
+                    "digitoConta": "0",
+                    "tipoConta": "PP",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA EBANO",
+                    "numero": "230",
+                    "complemento": "AP 101",
+                    "cep": "32140210",
+                    "bairro": "JARDIM LAGUNA",
+                    "cidade": "CONTAGEM",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "   ",
+                "numeroCelular": "",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "88631042",
+                "nomeCliente": "VALERIA DE CASTRO ALVES",
+                "numeroCpfCnpj": "00007500696",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "317089204-0",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": null
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.46",
+        "numeroReembolso": 22,
+        "valorReembolso": 65800,
+        "statusReembolso": "Pagamento Liberado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": false
+    },
+    {
+        "idReembolso": 23,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "104",
+                    "numeroAgencia": "1388",
+                    "digitoAgencia": "9 ",
+                    "numeroConta": "21670",
+                    "digitoConta": "6",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "R PROFESSOR  WALDEMAR RAMOS",
+                    "numero": "320",
+                    "complemento": "",
+                    "cep": "12227772",
+                    "bairro": "PARQUE MARTIM CECERE",
+                    "cidade": "SAO JOSE DOS CAMPOS",
+                    "estado": "SP"
+                },
+                "numeroDDDCelular": "   ",
+                "numeroCelular": "",
+                "numeroDDDFixo": "12 ",
+                "numeroFixo": "99709-0848",
+                "nomeCliente": "ANTONIO  LOURENCO DA SILVA FILHO",
+                "numeroCpfCnpj": "00008128898",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "716149706-5",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": null
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.463",
+        "numeroReembolso": 23,
+        "valorReembolso": 63800,
+        "statusReembolso": "Pagamento Liberado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": false
+    },
+    {
+        "idReembolso": 24,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "748",
+                    "numeroAgencia": "0523",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "57292",
+                    "digitoConta": "6",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA ITAQUI",
+                    "numero": "703",
+                    "complemento": "",
+                    "cep": "97590000",
+                    "bairro": "CENTRO",
+                    "cidade": "ROSARIO DO SUL",
+                    "estado": "RS"
+                },
+                "numeroDDDCelular": "   ",
+                "numeroCelular": "",
+                "numeroDDDFixo": "55 ",
+                "numeroFixo": "9653-5348",
+                "nomeCliente": "NELSON ANDRE PALOMEQUE CORIA",
+                "numeroCpfCnpj": "00008254095",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "316585005-2",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": null
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.467",
+        "numeroReembolso": 24,
+        "valorReembolso": 48500,
+        "statusReembolso": "Bloqueado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 25,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "5248",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "487111",
+                    "digitoConta": "1",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "R PROFESSORA ADE BARROS",
+                    "numero": "732",
+                    "complemento": "",
+                    "cep": "88070700",
+                    "bairro": "CANTO",
+                    "cidade": "FLORIANOPOLIS",
+                    "estado": "SC"
+                },
+                "numeroDDDCelular": "48 ",
+                "numeroCelular": "98412-9588",
+                "numeroDDDFixo": "48 ",
+                "numeroFixo": "9604-3413",
+                "nomeCliente": "EMERSON CECHETTO",
+                "numeroCpfCnpj": "00009017925",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "716522402-8",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": null
+        },
+        "dataSolicitacao": "2018-08-14T16:29:40.467",
+        "numeroReembolso": 25,
+        "valorReembolso": 86500,
+        "statusReembolso": "Bloqueado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 29,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0306",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "19350",
+                    "digitoConta": "X",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA PIAUI",
+                    "numero": "1981",
+                    "complemento": "AP102",
+                    "cep": "30150321",
+                    "bairro": "FUNCIONARIOS",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "98238-6788",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "3225-2901",
+                "nomeCliente": "ADELAIDE MARIA PACHECO",
+                "numeroCpfCnpj": "32691203620",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "712155707-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "CANC CONTR REFIN",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 212
+            }
+        },
+        "dataSolicitacao": "2018-07-03T15:30:00",
+        "numeroReembolso": 29,
+        "valorReembolso": 145.33,
+        "statusReembolso": "Registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "DEB",
+            "nomeSigla": "Parcela do mês baixada por débito em conta"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 6,
+            "processoRegistro": "INADIMPLÊNCIA",
+            "centroCusto": null,
+            "modeloContabil": "917",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 214.8",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 30,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0033",
+                    "digitoAgencia": "7 ",
+                    "numeroConta": "44105",
+                    "digitoConta": "8",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "Rua Carlos Alberto",
+                    "numero": "570",
+                    "complemento": "CS",
+                    "cep": "31530560",
+                    "bairro": "RIO BRANCO",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "99238-2705",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "99238-2705",
+                "nomeCliente": "ARIANY CRISTINA GONCALVES",
+                "numeroCpfCnpj": "00000145670",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "716516408-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "RECBTO DESC EM FOLHA",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 204
+            }
+        },
+        "dataSolicitacao": "2018-08-16T22:15:56.36",
+        "numeroReembolso": 30,
+        "valorReembolso": 17400,
+        "statusReembolso": "Registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 31,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0306",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "19350",
+                    "digitoConta": "X",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA PIAUI",
+                    "numero": "1981",
+                    "complemento": "AP102",
+                    "cep": "30150321",
+                    "bairro": "FUNCIONARIOS",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "98238-6788",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "3225-2901",
+                "nomeCliente": "ADELAIDE MARIA PACHECO",
+                "numeroCpfCnpj": "32691203620",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "712155707-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "CANC CONTR REFIN",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 212
+            }
+        },
+        "dataSolicitacao": "2018-07-03T15:30:00",
+        "numeroReembolso": 31,
+        "valorReembolso": 145.33,
+        "statusReembolso": "Registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "DEB",
+            "nomeSigla": "Parcela do mês baixada por débito em conta"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 6,
+            "processoRegistro": "INADIMPLÊNCIA",
+            "centroCusto": null,
+            "modeloContabil": "917",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 214.8",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 32,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0306",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "19350",
+                    "digitoConta": "X",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA PIAUI",
+                    "numero": "1981",
+                    "complemento": "AP102",
+                    "cep": "30150321",
+                    "bairro": "FUNCIONARIOS",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "98238-6788",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "3225-2901",
+                "nomeCliente": "ADELAIDE MARIA PACHECO",
+                "numeroCpfCnpj": "32691203620",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "712155707-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "CANC CONTR REFIN",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 212
+            }
+        },
+        "dataSolicitacao": "2018-07-03T15:30:00",
+        "numeroReembolso": 32,
+        "valorReembolso": 145.34,
+        "statusReembolso": "Registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "DEB",
+            "nomeSigla": "Parcela do mês baixada por débito em conta"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 6,
+            "processoRegistro": "INADIMPLÊNCIA",
+            "centroCusto": null,
+            "modeloContabil": "917",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 214.8",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 33,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0306",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "19350",
+                    "digitoConta": "X",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA PIAUI",
+                    "numero": "1981",
+                    "complemento": "AP102",
+                    "cep": "30150321",
+                    "bairro": "FUNCIONARIOS",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "98238-6788",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "3225-2901",
+                "nomeCliente": "ADELAIDE MARIA PACHECO",
+                "numeroCpfCnpj": "32691203620",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "712155707-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "CANC CONTR REFIN",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 212
+            }
+        },
+        "dataSolicitacao": "2018-07-03T15:30:00",
+        "numeroReembolso": 33,
+        "valorReembolso": 145.35,
+        "statusReembolso": "Registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "DEB",
+            "nomeSigla": "Parcela do mês baixada por débito em conta"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 6,
+            "processoRegistro": "INADIMPLÊNCIA",
+            "centroCusto": null,
+            "modeloContabil": "917",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 214.8",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 34,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0306",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "19350",
+                    "digitoConta": "X",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA PIAUI",
+                    "numero": "1981",
+                    "complemento": "AP102",
+                    "cep": "30150321",
+                    "bairro": "FUNCIONARIOS",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "98238-6788",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "3225-2901",
+                "nomeCliente": "ADELAIDE MARIA PACHECO",
+                "numeroCpfCnpj": "32691203620",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "712155707-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "CANC CONTR REFIN",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 212
+            }
+        },
+        "dataSolicitacao": "2018-07-03T15:30:00",
+        "numeroReembolso": 34,
+        "valorReembolso": 145.36,
+        "statusReembolso": "Registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 1,
+            "lote": "36ef123a-0fa1-47e4-a2a3-eddf02336c3d"
+        },
+        "sigla": {
+            "codigoSigla": "DEB",
+            "nomeSigla": "Parcela do mês baixada por débito em conta"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 6,
+            "processoRegistro": "INADIMPLÊNCIA",
+            "centroCusto": null,
+            "modeloContabil": "917",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 214.8",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 35,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0306",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "19350",
+                    "digitoConta": "X",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA PIAUI",
+                    "numero": "1981",
+                    "complemento": "AP102",
+                    "cep": "30150321",
+                    "bairro": "FUNCIONARIOS",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "98238-6788",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "3225-2901",
+                "nomeCliente": "ADELAIDE MARIA PACHECO",
+                "numeroCpfCnpj": "32691203620",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "712155707-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "CANC CONTR REFIN",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 212
+            }
+        },
+        "dataSolicitacao": "2018-07-03T15:30:00",
+        "numeroReembolso": 35,
+        "valorReembolso": 145.37,
+        "statusReembolso": "Registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 4,
+            "lote": "3dbfb380-b220-4367-a843-b674a8f58c83"
+        },
+        "sigla": {
+            "codigoSigla": "DEB",
+            "nomeSigla": "Parcela do mês baixada por débito em conta"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 6,
+            "processoRegistro": "INADIMPLÊNCIA",
+            "centroCusto": null,
+            "modeloContabil": "917",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 214.8",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 36,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0306",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "19350",
+                    "digitoConta": "X",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA PIAUI",
+                    "numero": "1981",
+                    "complemento": "AP102",
+                    "cep": "30150321",
+                    "bairro": "FUNCIONARIOS",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "98238-6788",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "3225-2901",
+                "nomeCliente": "ADELAIDE MARIA PACHECO",
+                "numeroCpfCnpj": "32691203620",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "712155707-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "CANC CONTR REFIN",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 212
+            }
+        },
+        "dataSolicitacao": "2018-07-03T15:30:00",
+        "numeroReembolso": 36,
+        "valorReembolso": 145.38,
+        "statusReembolso": "Registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 5,
+            "lote": "884e4d72-9a59-4b37-9e3f-e7621578eebf"
+        },
+        "sigla": {
+            "codigoSigla": "DEB",
+            "nomeSigla": "Parcela do mês baixada por débito em conta"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 6,
+            "processoRegistro": "INADIMPLÊNCIA",
+            "centroCusto": null,
+            "modeloContabil": "917",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 214.8",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 37,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0306",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "19350",
+                    "digitoConta": "X",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA PIAUI",
+                    "numero": "1981",
+                    "complemento": "AP102",
+                    "cep": "30150321",
+                    "bairro": "FUNCIONARIOS",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "98238-6788",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "3225-2901",
+                "nomeCliente": "ADELAIDE MARIA PACHECO",
+                "numeroCpfCnpj": "32691203620",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "712155707-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "CANC CONTR REFIN",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 212
+            }
+        },
+        "dataSolicitacao": "2018-07-03T15:30:00",
+        "numeroReembolso": 37,
+        "valorReembolso": 145.39,
+        "statusReembolso": "Registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 6,
+            "lote": "81ddd422-47f1-4d2a-8a28-9b7cb5882093"
+        },
+        "sigla": {
+            "codigoSigla": "DEB",
+            "nomeSigla": "Parcela do mês baixada por débito em conta"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 6,
+            "processoRegistro": "INADIMPLÊNCIA",
+            "centroCusto": null,
+            "modeloContabil": "917",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 214.8",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 38,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0306",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "19350",
+                    "digitoConta": "X",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA PIAUI",
+                    "numero": "1981",
+                    "complemento": "AP102",
+                    "cep": "30150321",
+                    "bairro": "FUNCIONARIOS",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "98238-6788",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "3225-2901",
+                "nomeCliente": "ADELAIDE MARIA PACHECO",
+                "numeroCpfCnpj": "32691203620",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "712155707-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "CANC CONTR REFIN",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 212
+            }
+        },
+        "dataSolicitacao": "2018-07-03T15:30:00",
+        "numeroReembolso": 38,
+        "valorReembolso": 145.4,
+        "statusReembolso": "Registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 7,
+            "lote": "9b59ca68-527a-48f3-8fd6-3a2c2bbbd203"
+        },
+        "sigla": {
+            "codigoSigla": "DEB",
+            "nomeSigla": "Parcela do mês baixada por débito em conta"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 6,
+            "processoRegistro": "INADIMPLÊNCIA",
+            "centroCusto": null,
+            "modeloContabil": "917",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 214.8",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 39,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "001",
+                    "numeroAgencia": "0033",
+                    "digitoAgencia": "7 ",
+                    "numeroConta": "44105",
+                    "digitoConta": "8",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "Rua Carlos Alberto",
+                    "numero": "570",
+                    "complemento": "CS",
+                    "cep": "31530560",
+                    "bairro": "RIO BRANCO",
+                    "cidade": "BELO HORIZONTE",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "99238-2705",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "99238-2705",
+                "nomeCliente": "ARIANY CRISTINA GONCALVES",
+                "numeroCpfCnpj": "00000145670",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "716516408-3",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "RECBTO DESC EM FOLHA",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 204
+            }
+        },
+        "dataSolicitacao": "2018-08-17T18:03:33.087",
+        "numeroReembolso": 39,
+        "valorReembolso": 101,
+        "statusReembolso": "Registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 11,
+            "lote": "253f4ed6-5b25-4631-9936-a0f4dad97256"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 40,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "104",
+                    "numeroAgencia": "0084",
+                    "digitoAgencia": "0 ",
+                    "numeroConta": "062869",
+                    "digitoConta": "7",
+                    "tipoConta": "PP",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "RUA CRISTALIA",
+                    "numero": "125",
+                    "complemento": "",
+                    "cep": "32684094",
+                    "bairro": "SANTO ANTONIO",
+                    "cidade": "BETIM",
+                    "estado": "MG"
+                },
+                "numeroDDDCelular": "31 ",
+                "numeroCelular": "99788-0258",
+                "numeroDDDFixo": "31 ",
+                "numeroFixo": "3591-6357",
+                "nomeCliente": "GUTEMBERG DOS SANTOS TEIXEIRA",
+                "numeroCpfCnpj": "00000395609",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "316411207-4",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "RECBTO DESC EM FOLHA",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 204
+            }
+        },
+        "dataSolicitacao": "2018-08-17T18:03:33.09",
+        "numeroReembolso": 40,
+        "valorReembolso": 201,
+        "statusReembolso": "Registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 12,
+            "lote": "253f4ed6-5b25-4631-9936-a0f4dad97256"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    },
+    {
+        "idReembolso": 41,
+        "pagamento": null,
+        "usuario": {
+            "codigoUsuario": null,
+            "nomeUsuario": null
+        },
+        "departamento": {
+            "idDepartamento": 1,
+            "codigoDepartamento": "0000020",
+            "nomeDepartamento": null
+        },
+        "comunicacoes": [],
+        "contrato": {
+            "produto": {
+                "sistemaProduto": {
+                    "codigoSistema": "",
+                    "nomeSistema": "SSAFUNCAO"
+                },
+                "codigoCarteira": "032",
+                "codigoEvento": null,
+                "codigoProduto": "0001",
+                "nomeProduto": "CONSIGNADO"
+            },
+            "cliente": {
+                "contaCredito": {
+                    "numeroBanco": "033",
+                    "numeroAgencia": "3213",
+                    "digitoAgencia": "  ",
+                    "numeroConta": "01079055",
+                    "digitoConta": "6",
+                    "tipoConta": "CC",
+                    "fraude": null
+                },
+                "endereco": {
+                    "nomeLogradouro": "Estrada Francisco da Cruz Nunes",
+                    "numero": "1198",
+                    "complemento": "403",
+                    "cep": "24350310",
+                    "bairro": "Piratininga",
+                    "cidade": "Niteroi",
+                    "estado": "RJ"
+                },
+                "numeroDDDCelular": "   ",
+                "numeroCelular": "",
+                "numeroDDDFixo": "21 ",
+                "numeroFixo": "6746-6039",
+                "nomeCliente": "DEILSON DE OLIVEIRA TEIXEIRA",
+                "numeroCpfCnpj": "00001785788",
+                "tipoPessoa": "F"
+            },
+            "coligada": {
+                "cnpjColigada": "59285411000113",
+                "codigoColigada": "001",
+                "nomeColigada": "BANCO PAN SA"
+            },
+            "processoAjuizado": [],
+            "numeroContrato": "716325516-4",
+            "statusContrato": 0,
+            "dataStatus": null,
+            "registroObito": null,
+            "obito": false,
+            "historicoFinanceiro": {
+                "motivo": "RECBTO DESC EM FOLHA",
+                "origemInformacao": "HF PANCRED",
+                "codigoHistoricoFinanceiro": 204
+            }
+        },
+        "dataSolicitacao": "2018-08-17T18:03:33.093",
+        "numeroReembolso": 41,
+        "valorReembolso": 301,
+        "statusReembolso": "Registrado",
+        "mesCompetencia": 0,
+        "anoCompetencia": 0,
+        "lote": {
+            "idLote": 13,
+            "lote": "253f4ed6-5b25-4631-9936-a0f4dad97256"
+        },
+        "sigla": {
+            "codigoSigla": "PBX",
+            "nomeSigla": "REG INAD"
+        },
+        "processoRegistro": {
+            "codigoProcessoRegistro": 3,
+            "processoRegistro": "ASSESSORIA",
+            "centroCusto": null,
+            "modeloContabil": "8611",
+            "indicadorFluxo": "ENTRADA",
+            "contaDebito": "4.9.9.92.00.7 221.0",
+            "contaCredito": "4.9.9.92.00.7 216.4"
+        },
+        "integracao": 0,
+        "mensagemErro": null,
+        "dtInclusao": "2018-08-17T19:14:54.5733361-03:00",
+        "permiteEstorno": true
+    }
+]
