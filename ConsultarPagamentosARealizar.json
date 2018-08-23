@@ -1,0 +1,257 @@
+{
+    "pagamentos": [
+        {
+            "cpf": "00000000272",
+            "nomeCliente": "CLIENTE PAN",
+            "valor": 1016,
+            "ids": [
+                14,
+                30
+            ]
+        },
+        {
+            "cpf": "00000145670",
+            "nomeCliente": "ARIANY CRISTINA GONCALVES",
+            "valor": 665,
+            "ids": [
+                15,
+                31,
+                41
+            ]
+        },
+        {
+            "cpf": "00000372307",
+            "nomeCliente": "TEODORA COSTA",
+            "valor": 460,
+            "ids": [
+                16,
+                32
+            ]
+        },
+        {
+            "cpf": "00000395609",
+            "nomeCliente": "GUTEMBERG DOS SANTOS TEIXEIRA",
+            "valor": 1600,
+            "ids": [
+                17,
+                28,
+                42
+            ]
+        },
+        {
+            "cpf": "00000526045",
+            "nomeCliente": "ANGELINA DUARTE",
+            "valor": 343,
+            "ids": [
+                33
+            ]
+        },
+        {
+            "cpf": "00000732702",
+            "nomeCliente": "ILKA DE CASTRO ALMEIDA SANTOS",
+            "valor": 343,
+            "ids": [
+                27
+            ]
+        },
+        {
+            "cpf": "00000944807",
+            "nomeCliente": "LUIZ JESUINO DA SILVA",
+            "valor": 343,
+            "ids": [
+                34
+            ]
+        },
+        {
+            "cpf": "00001232851",
+            "nomeCliente": "HAROLDO DONIZETE LOPES",
+            "valor": 343,
+            "ids": [
+                35
+            ]
+        },
+        {
+            "cpf": "00001383124",
+            "nomeCliente": "IDA MARGARIDA LOUREIRO DE SOUSA",
+            "valor": 343,
+            "ids": [
+                36
+            ]
+        },
+        {
+            "cpf": "00001482025",
+            "nomeCliente": "ANDRE MARCELO CARVALHO CARDOSO",
+            "valor": 343,
+            "ids": [
+                22
+            ]
+        },
+        {
+            "cpf": "00001785788",
+            "nomeCliente": "DEILSON DE OLIVEIRA TEIXEIRA",
+            "valor": 1596,
+            "ids": [
+                18,
+                23,
+                43
+            ]
+        },
+        {
+            "cpf": "00001865706",
+            "nomeCliente": "DILSON DE SOUZA BARROS",
+            "valor": 343,
+            "ids": [
+                39
+            ]
+        },
+        {
+            "cpf": "00002244993",
+            "nomeCliente": "NELSI MORGENSTERN",
+            "valor": 595,
+            "ids": [
+                24,
+                44
+            ]
+        },
+        {
+            "cpf": "00002461234",
+            "nomeCliente": "JOSE MOZART DE C NERY",
+            "valor": 1199,
+            "ids": [
+                19,
+                38,
+                45
+            ]
+        },
+        {
+            "cpf": "00002523361",
+            "nomeCliente": "MARIA ENILCE SILVA VIEIRA",
+            "valor": 1774,
+            "ids": [
+                10,
+                20,
+                25,
+                26,
+                46
+            ]
+        },
+        {
+            "cpf": "00002699133",
+            "nomeCliente": "EDUARDO BARROSO SILVA",
+            "valor": 1041,
+            "ids": [
+                11,
+                37,
+                47
+            ]
+        },
+        {
+            "cpf": "00002945860",
+            "nomeCliente": "ARMIN GERALDO KIRSTEN",
+            "valor": 343,
+            "ids": [
+                29
+            ]
+        },
+        {
+            "cpf": "00003398064",
+            "nomeCliente": "MARIA SALETE DOS SANTOS",
+            "valor": 204,
+            "ids": [
+                12
+            ]
+        },
+        {
+            "cpf": "00003404803",
+            "nomeCliente": "ANTONIO DOS SANTOS",
+            "valor": 343,
+            "ids": [
+                40
+            ]
+        },
+        {
+            "cpf": "00005567505",
+            "nomeCliente": "CARLITO SILVA DOS ANJOS",
+            "valor": 362,
+            "ids": [
+                48
+            ]
+        },
+        {
+            "cpf": "00006247725",
+            "nomeCliente": "ANA PAULA TODARO LEITE",
+            "valor": 486,
+            "ids": [
+                49
+            ]
+        },
+        {
+            "cpf": "00006267165",
+            "nomeCliente": "WAGNER PAULO DA COSTA SILVA",
+            "valor": 192,
+            "ids": [
+                50
+            ]
+        },
+        {
+            "cpf": "00006384714",
+            "nomeCliente": "MARCIO BONIN RIBEIRO",
+            "valor": 229,
+            "ids": [
+                51
+            ]
+        },
+        {
+            "cpf": "00007500696",
+            "nomeCliente": "VALERIA DE CASTRO ALVES",
+            "valor": 658,
+            "ids": [
+                52
+            ]
+        },
+        {
+            "cpf": "00008128898",
+            "nomeCliente": "ANTONIO  LOURENCO DA SILVA FILHO",
+            "valor": 638,
+            "ids": [
+                53
+            ]
+        },
+        {
+            "cpf": "00008254095",
+            "nomeCliente": "NELSON ANDRE PALOMEQUE CORIA",
+            "valor": 485,
+            "ids": [
+                54
+            ]
+        },
+        {
+            "cpf": "00009017925",
+            "nomeCliente": "EMERSON CECHETTO",
+            "valor": 865,
+            "ids": [
+                55
+            ]
+        }
+    ],
+    "historicoPagamentos": {
+        "historico10": [
+            {
+                "total": 8061,
+                "media": 424.263157
+            }
+        ],
+        "historico30": [
+            {
+                "total": 8551,
+                "media": 427.55
+            }
+        ],
+        "historico60": [
+            {
+                "total": 9030,
+                "media": 430
+            }
+        ]
+    }
+}
